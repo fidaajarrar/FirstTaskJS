@@ -1,0 +1,18 @@
+.demo{
+    color:white;
+    background-color:#F0B1FD;
+    box-shadow:3px 2px 5px 4px #D4CED5 ;
+    padding:20px;
+    width:200px;
+    text-align:center;
+}
+
+
+.vip{
+    color:white;
+    background-color: #9CC4CD ;
+    box-shadow:3px 2px 3px 4px #E8EBEB  ;
+    padding:20px;
+    width:200px;
+    text-align:center;
+}
